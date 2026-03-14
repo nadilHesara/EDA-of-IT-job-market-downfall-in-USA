@@ -1,0 +1,7 @@
+Layoffs - layoffs.fyi
+Occupational Employment and Wage Statistics - 
+Job postings - hiring demand dataset - https://fred.stlouisfed.org/series/IHLIDXUSTPSOFTDEVE
+                                        https://fred.stlouisfed.org/series/IHLIDXUS
+
+
+Official labor turnover dataset - BLS JOLTS - https://www.bls.gov/data/#employment
