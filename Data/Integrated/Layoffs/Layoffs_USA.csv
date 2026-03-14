@@ -4,6 +4,7 @@ Embark Trucks,SF Bay Area,Transportation,230.0,0.7,3/3/2023,Post-IPO,United Stat
 UserTesting,SF Bay Area,Marketing,63.0,,3/3/2023,Acquired,United States,152.0
 Airbnb,SF Bay Area,,30.0,,3/3/2023,Post-IPO,United States,6400.0
 Accolade,Seattle,Healthcare,,,3/3/2023,Post-IPO,United States,458.0
+Indigo,Boston,Other,,,3/3/2023,Series F,United States.,1200.0
 Zscaler,SF Bay Area,Security,177.0,0.03,3/2/2023,Post-IPO,United States,148.0
 MasterClass,SF Bay Area,Education,79.0,,3/2/2023,Series E,United States,461.0
 CNET,SF Bay Area,Media,12.0,0.1,3/2/2023,Acquired,United States,20.0
@@ -20,6 +21,7 @@ Eventbrite,SF Bay Area,Consumer,80.0,0.08,2/28/2023,Post-IPO,United States,557.0
 MeridianLink,Los Angeles,Finance,,0.09,2/28/2023,Post-IPO,United States,485.0
 Cerebral,SF Bay Area,Healthcare,285.0,0.15,2/27/2023,Series C,United States,462.0
 Amount,Chicago,Finance,130.0,0.25,2/27/2023,Unknown,United States,283.0
+Palantir,Denver,Data,75.0,0.02,2/27/2023,Post-IPO,United States.,3000.0
 Outreach,Seattle,Sales,70.0,0.07,2/27/2023,Series G,United States,489.0
 Stytch,SF Bay Area,Security,19.0,0.25,2/27/2023,Series B,United States,126.0
 Twitter,SF Bay Area,Consumer,200.0,0.1,2/25/2023,Post-IPO,United States,12900.0
@@ -65,6 +67,7 @@ Vicarious Surgical,Boston,Healthcare,,0.14,2/15/2023,Post-IPO,United States,185.
 CommerceHub,Albany,Retail,371.0,0.31,2/14/2023,Acquired,United States,
 HackerEarth,SF Bay Area,HR,,0.08,2/14/2023,Series B,United States,11.0
 Udemy,SF Bay Area,Education,,0.1,2/14/2023,Post-IPO,United States,311.0
+Twilio,SF Bay Area,Other,1500.0,0.17,2/13/2023,Post-IPO,United States.,614.0
 Electric,New York City,Other,141.0,0.25,2/13/2023,Series D,United States,212.0
 EMX Digital,New York City,Marketing,100.0,1.0,2/13/2023,Unknown,United States,
 iRobot,Boston,Consumer,85.0,0.07,2/13/2023,Acquired,United States,30.0
@@ -578,6 +581,7 @@ Nyriad,Austin,Infrastructure,,0.33,10/10/2022,Unknown,United States,58.0
 BioMarin,SF Bay Area,Healthcare,120.0,0.04,10/7/2022,Post-IPO,United States,585.0
 Rev.com,Austin,Data,85.0,,10/7/2022,Series D,United States,30.0
 Peloton,New York City,Fitness,500.0,0.12,10/6/2022,Post-IPO,United States,1900.0
+Landing,Birmingham,Real Estate,110.0,,10/6/2022,Series C,United States.,347.0
 Turnitin,SF Bay Area,Education,51.0,0.05,10/6/2022,Acquired,United States,
 Impossible Foods,SF Bay Area,Food,50.0,0.06,10/6/2022,Series H,United States,1900.0
 Foresight Insurance,SF Bay Area,Finance,,0.4,10/6/2022,Series B,United States,58.0
